@@ -1,0 +1,7 @@
+.vscode
+
+*.o
+
+lex.yy.c
+lll.tab.c
+lll.tab.h
